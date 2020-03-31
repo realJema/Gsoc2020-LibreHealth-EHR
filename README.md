@@ -4,17 +4,17 @@ Design and Implement a new UI for LibreHealth EHR
 ## Mockup Designs
 
 ##### installations 
-![installations]()
+![installation](images/installation.png)
 
 ##### Login 
-![Login]()
+![login](images/login.png)
 
 ##### Dashboard 
-![dashboard]()
+![dashboard](images/dashboard.png)
 
 ##### dropdowns
-![picture](images/login.png)
+![dropdown](images/dropdown.png)
 
 ##### Multitabs 
-![Multitabs]()
+![pills](images/pills.png)
 
