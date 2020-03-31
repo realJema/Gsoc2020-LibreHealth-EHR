@@ -13,7 +13,7 @@ Design and Implement a new UI for LibreHealth EHR
 ![dashboard]()
 
 ##### dropdowns
-![jema](https://github.com/realjema/Gsoc2020-LibreHealth-EHR//blob/master/images/dashboard.png)
+![picture](images/login.png)
 
 ##### Multitabs 
 ![Multitabs]()
